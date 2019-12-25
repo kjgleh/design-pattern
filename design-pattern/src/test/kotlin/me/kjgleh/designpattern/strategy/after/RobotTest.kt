@@ -1,6 +1,6 @@
 package me.kjgleh.designpattern.strategy.after
 
-import org.junit.Test
+import org.junit.jupiter.api.Test
 
 class RobotTest {
 

@@ -1,7 +1,7 @@
 package me.kjgleh.designpattern.composite.after
 
 import org.assertj.core.api.Assertions.assertThat
-import org.junit.Test
+import org.junit.jupiter.api.Test
 
 class ComputerTest {
 
